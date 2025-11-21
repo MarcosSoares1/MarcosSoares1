@@ -91,8 +91,8 @@ https://github.com/MarcosSoares1/etl-csv-data-pipeline
 ## Estatísticas do GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MarcosSoares1&show_icons=true&theme=dark&hide_border=true" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSoares1&layout=compact&theme=dark&hide_border=true" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=MarcosSoares1&show_icons=true&theme=dark&hide_border=true&count_private=true&token=${{ secrets.GH_STATS_TOKEN }}" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSoares1&layout=compact&theme=dark&hide_border=true&count_private=true&token=${{ secrets.GH_STATS_TOKEN }}" width="49%">
 </p>
 
 ---
