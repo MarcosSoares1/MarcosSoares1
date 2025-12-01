@@ -1,5 +1,5 @@
 <h1 align="center">Marcos Soares</h1>
-<h3 align="center">Engenheiro de Dados Jr/Pl | Arquitetura Lakehouse • Pipelines • Spark • Databricks</h3>
+<h3 align="center">Engenheiro de Dados | Arquitetura Lakehouse • Pipelines • Spark • Databricks</h3>
 
 ---
 
