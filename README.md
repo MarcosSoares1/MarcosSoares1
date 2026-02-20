@@ -11,7 +11,7 @@ Atuo no ciclo completo de dados, desde ingestão e padronização até armazenam
 
 Tenho experiência com modelagem relacional e dimensional, versionamento, auditoria, qualidade de dados, ingestão multi-fonte e automação de processos com foco em eficiência e confiabilidade.
 
-Atualmente curso pós-graduação em Engenharia de Dados e Inteligência Artificial (Anhanguera, 2025) e estou me preparando para a certificação Databricks Certified Data Engineer Associate.
+Recentemente conclui uma pós-graduação em Engenharia de Dados e Inteligência Artificial (Anhanguera, 2026) e estou me preparando para a certificação Databricks Certified Data Engineer Associate.
 
 Busco atuar como Engenheiro de Dados Jr/Pl contribuindo com arquitetura escalável, governança, padronização de fluxos e integração entre ambientes corporativos.
 
